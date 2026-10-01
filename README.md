@@ -286,33 +286,5 @@ Data-Analytics-Projects-in-python/
 
 ---
 
-## Contributing
 
-Contributions, issues, and feature requests are welcome. Please feel free to open an issue or submit a pull request.
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
----
-
-## Author
-
-**Sarvesh Kumar Sharma**
-
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
-
----
-
-<p align="center">
-  Built with ❤️ and a lot of ☕
-</p>
